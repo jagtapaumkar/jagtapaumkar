@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aumkar-jagtap-a86000200/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aumkarjagtapportfolio-git-main-aumkars-projects.vercel.app/"><img alt="Profile" src="https://img.shields.io/badge/Profile-49b6f5?style=for-the-badge&logo=profile&logoColor=white"/></a>
   <a href="mailto:aumkarjagtap@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
