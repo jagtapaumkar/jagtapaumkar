@@ -102,7 +102,8 @@ I'm passionate about **transforming data into actionable insights** and building
 **End-to-end ML pipeline with interactive dashboard**
 - Built regression models to predict California housing prices with 89% accuracy
 - Created interactive Plotly Dash visualization dashboard for real-time predictions
-- Implemented feature importance analysis and model explainability tools
+- Implemented feature importance analysis and model explainability tools.
+🔗**[Live Demo](https://house-price-prediction-tdpg.onrender.com/)**
 
 ### 🖼️ Image Classification with CNN
 **Deep learning project with 92% accuracy**
@@ -114,7 +115,15 @@ I'm passionate about **transforming data into actionable insights** and building
 **Full-stack role-based vendor system**
 - Developed a React-based frontend with responsive UI using Tailwind CSS
 - Implemented secure authentication with JWT and role-based access control
-- Built Node.js/Express backend with real-time notifications using Socket.io
+
+### 📅 React Calendar Application
+**Interactive scheduling and event management tool**
+
+- Built a dynamic calendar interface using React with monthly view and event CRUD functionality
+- Designed a fully responsive UI with Tailwind CSS, ensuring cross-device compatibility
+- Managed state efficiently using React hooks and local storage for event persistence  
+🔗 **[Live Demo](https://calendar-app-git-main-aumkars-projects.vercel.app/)**
+
 
 ## 📊 GitHub Stats
 
