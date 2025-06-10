@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Aumkar Jagtap
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=JAVA;SQL;Data+Analyst;Full-Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=300&color=6A5ACD&center=true&vCenter=true&width=435&lines=JAVA;SQL;Data+Analyst;Full-Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
