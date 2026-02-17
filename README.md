@@ -119,7 +119,7 @@ Status   : ✅ Open to exciting opportunities
       <h3>AI Voice & Text Agent</h3>
       <p>RAG-powered support agent with ElevenLabs voice, Telegram delivery, and real-time web UI</p>
       <kbd>LLM</kbd> <kbd>RAG</kbd> <kbd>React</kbd> <kbd>n8n</kbd> <kbd>Webhooks</kbd>
-      <br/><br/>
+      <br/><a href="https://github.com/jagtapaumkar/AI-voice-agent-">🔗 Live Demo</a><br/><br/>
     </td>
     <td align="center" width="33%">
       <br/>
